@@ -9,5 +9,5 @@
 ==/UserStyle== */
 
 @-moz-document regexp("https?://(canary\\.|ptb\\.|)discord.com/.*") {
-    @import url("https://discord-fluent.siris.me/css/fluent-" + variant + ".css")
+    @import url("https://discord-fluent.siris.me/css/fluent-color.css")
 }
